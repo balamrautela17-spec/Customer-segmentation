@@ -1,6 +1,6 @@
 # 📊 PROJECT OVERVIEW
 
-**Project Title:** E-commerce Customer Segmentation & CLV Analysis  
+**Project Title:** E-commerce Customer Segmentation using RFM Analysis  
 **Tools Used:** Microsoft Excel, Power BI  
 **Data Size:** 501 customers, 3,939 transactions over 2 years (2023-2024)  
 **Key Techniques:** RFM Analysis, Customer Lifetime Value (CLV) Calculation, Data Segmentation
